@@ -9,7 +9,7 @@
     "stack": "container",
     "env": {
         "ASENA_SESSION": {
-            "description": "Qr.Js ile oluşturduğunuz özel session kodu. Type here yours Asena Session.",
+            "description": "ASENA;;;eyJjbGllbnRJRCI6IkNBb24zZkRqR3NRL0VVNnZiS0xranc9PSIsInNlcnZlclRva2VuIjoiMUA3RGVMV0crcUxGdkxlVkhNcDBjS3J4L2FzQlZ2SUlickhmcFViYm9DODBwSE9ldGpmN0x5d3ZrZjdBS1BlYXBUcWE2K21mUTJRSXNWUkE9PSIsImNsaWVudFRva2VuIjoickxjaFVWOG1IQzZpNzE5VDU1RTJmcVVMS3p5Y2ROWDFodmtJd2o3Rktnaz0iLCJlbmNLZXkiOiJkZTQ4elVrVlBpbG82K0JOV3NCYlR3M29YRjVEUlAzQlVZL3VFcTg2aTBVPSIsIm1hY0tleSI6ImZNUFh3a3FwOUhMaEVsN1VxcWlrdTVOTEhPU3NmUHJWaFFxZXhkbWxQQ0k9In0=",
             "required": true
         },
         "SUDO": {
